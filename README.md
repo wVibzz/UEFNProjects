@@ -1,1 +1,1 @@
-# Moving Raibow Star Wand
+# Moving Rainbow Star Wand
