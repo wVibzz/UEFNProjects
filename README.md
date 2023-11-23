@@ -1,2 +1,1 @@
-# Emerald-StarWand
-Emerald StarWand For Galaxy Swapper
+# Moving Raibow Star Wand
